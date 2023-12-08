@@ -20,3 +20,10 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+# Resultado e Melhoria
+Além do que foi proposto pelo desafio foi também inclui uma lista de AplicativosInstalados e um método para que listasse todos os aplicativos instalados em cada uma das classes (Iphone e Nokia).
+Segue imagem do resultado do teste:
+
+![image](https://github.com/iagovcavalcanti/trilha-net-poo-desafio/assets/149210815/83ae801d-d9ca-4c32-976c-e87545425c59)
+
